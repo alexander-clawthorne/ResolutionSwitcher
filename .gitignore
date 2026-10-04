@@ -1,0 +1,7 @@
+# Build output
+*.exe
+*.pdb
+
+# Windows
+Thumbs.db
+desktop.ini
